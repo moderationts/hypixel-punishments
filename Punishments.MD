@@ -44,5 +44,3 @@
 - Hacking (see https://hypixel.net/competitive-bans for additional punishments)
 
 *(Durations change depending on your account status (Low/Medium/High) and the severity of what you said and/or did)*
-
-*(Durations change depending on your account status (Low/Medium/High) and the severity of what you said/did)*
