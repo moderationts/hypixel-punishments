@@ -35,10 +35,15 @@
 - Cross teaming
 - Team griefing
 
-### Hypixel Services (Permanent)
+### Hypixel Services (Permanent ban)
 - Abuse of services (global)
 - Chargeback (store, rarely in-game)
 - Account security (In-game, 1st offence can be reduced to 14 days via appeals)
+
+### Skyblock (1 month, 3 months, 6 months, 1 year or permanent ban)
+- IRL Trading
+- Boosting
+- Scamming
 
 ### Other (1 month, 3 months, 6 months or 1 year ban)
 - Hacking (see https://hypixel.net/competitive-bans for additional punishments)
